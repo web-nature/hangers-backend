@@ -28,7 +28,7 @@ INSTALLED_APPS = [
     'djoser',
     'product',
     'dotenv',
-    'stripe',
+    'order',
 ]
 
 MIDDLEWARE = [
